@@ -1,0 +1,17 @@
+# Site settings
+title: Thoughts on automating all the things
+description: >
+  Thoughts and notes relating to IT deployment automation,
+  integration, OpenStack and other Open Source work.
+baseurl: ""
+url: "http://odyssey4me.github.io"
+twitter_username:   odyssey4me
+github_username:    odyssey4me
+linkedin_username:  jpretorius
+
+# Build settings
+markdown: redcarpet
+markdown_ext:  markdown,mkdown,mkdn,mkd,md
+
+redcarpet:
+  extensions: ["autolink", "highlight", "no_intra_emphasis", "smart", "space_after_headers", "strikethrough", "superscript", "tables", "with_toc_data"]
