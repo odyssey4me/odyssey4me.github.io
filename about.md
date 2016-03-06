@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 I am a Software Engineer working in the
-[Rackspace Private Cloud](http://www.rackspace.co.uk/cloud/private)
+[Rackspace Private Cloud](https://www.rackspace.com/cloud/private/openstacksolutions/openstack)
 product development team. My days are usually spent developing
 [Ansible](http://www.ansible.com/)-based automation for the
 deployment of [OpenStack](http://www.openstack.org/) in production
