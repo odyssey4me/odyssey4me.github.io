@@ -10,7 +10,6 @@ github_username:    odyssey4me
 linkedin_username:  jpretorius
 
 # Build settings
-markdown: redcarpet
 markdown_ext:  markdown,mkdown,mkdn,mkd,md
 
 redcarpet:
