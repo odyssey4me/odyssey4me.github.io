@@ -13,4 +13,13 @@ linkedin_username:  jpretorius
 markdown_ext:  markdown,mkdown,mkdn,mkd,md
 
 redcarpet:
-  extensions: ["autolink", "highlight", "no_intra_emphasis", "smart", "space_after_headers", "strikethrough", "superscript", "tables", "with_toc_data"]
+  extensions:
+    - "autolink"
+    - "highlight"
+    - "no_intra_emphasis"
+    - "smart"
+    - "space_after_headers"
+    - "strikethrough"
+    - "superscript"
+    - "tables"
+    - "with_toc_data"
