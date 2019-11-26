@@ -2,7 +2,7 @@
 layout: post
 title:  "OpenStack-Ansible Mitaka Summit Summary"
 date:   2015-11-17 11:35:00
-categories: openstack ansible mitaka summit
+tags: [openstack, ansible, mitaka, summit]
 ---
 The OpenStack Design Summit provides an opportunity for OpenStack
 collaborators to meet face-to-face, discuss lessons learned in the last cycle

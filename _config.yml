@@ -1,6 +1,10 @@
 # Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
 title: Thoughts on automating all the things
-description: >
+description: >-
   Thoughts and notes relating to IT deployment automation,
   integration, OpenStack and other Open Source work.
 baseurl: ""
@@ -8,18 +12,12 @@ url: "http://odyssey4me.github.io"
 twitter_username:   odyssey4me
 github_username:    odyssey4me
 linkedin_username:  jpretorius
+google_analytics: UA-42001373-3
+rss: atom feed
 
 # Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
 markdown_ext:  markdown,mkdown,mkdn,mkd,md
-
-redcarpet:
-  extensions:
-    - "autolink"
-    - "highlight"
-    - "no_intra_emphasis"
-    - "smart"
-    - "space_after_headers"
-    - "strikethrough"
-    - "superscript"
-    - "tables"
-    - "with_toc_data"
